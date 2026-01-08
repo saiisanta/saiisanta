@@ -136,7 +136,6 @@ Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b>
 
 </div>
 
----
 
 <div align="center">
 
@@ -144,7 +143,6 @@ Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b>
 
 ⭐ **Si te gustan mis proyectos, no olvides darles una estrella** ⭐
 
----
 
 **Hecho por Simón Santarelli**
 
