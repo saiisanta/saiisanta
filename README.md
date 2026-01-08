@@ -16,41 +16,27 @@
 
 ## 💫 Sobre Mí
 
-<pre><code class="language-javascript">
-const simon = {
-  ubicacion: "Firmat, Santa Fe, Argentina 🇦🇷",
-  rol: "Full Stack Developer",
-  educacion: [
-    "🎓 Tecnicatura Universitaria en Programacion - UTN (Graduado)",
-    "🤖 Tecnicatura en Inteligencia Artificial - UNR (2026)",
-    "💻 Tecnico en Informatica - EETP N 281 (2023)"
-  ],
-  
-  especialidades: [
-    "Desarrollo Frontend con React y diseno pixel-perfect",
-    "Backend escalable con .NET Core y Node.js",
-    "Arquitectura de software y diagramas UML",
-    "Gestion de bases de datos relacionales y NoSQL",
-    "Integracion de APIs RESTful"
-  ],
-  
-  filosofia: "Una web debe ser tan rapida como estetica",
-  
-  actualmente: {
-    trabajando: "Proyectos full stack con React y .NET",
-    aprendiendo: "Inteligencia Artificial y Machine Learning",
-    construyendo: "Plataformas escalables y experiencias unicas"
-  },
-  
-  pasiones: ["🎸 Musica", "🎮 Gaming", "📚 Aprendizaje constante"],
-  
-  experiencia: {
-    colaborador: "Frontend en Brokian.com (Bootstrap)",
-    pasantia: "Edicion audiovisual en TDC",
-    freelance: "E-commerce backends con Node.js"
-  }
-};
-</code></pre>
+**Ubicacion:** Firmat, Santa Fe, Argentina 🇦🇷  
+**Rol:** Full Stack Developer  
+
+**Educacion:**
+- 🎓 Tecnicatura Universitaria en Programacion - UTN (Graduado)
+- 🤖 Tecnicatura en Inteligencia Artificial - UNR (2026)
+- 💻 Tecnico en Informatica - EETP N 281 (2023)
+
+**Especialidades:**
+- Desarrollo Frontend con React y diseno pixel-perfect
+- Backend escalable con .NET Core y Node.js
+- Arquitectura de software y diagramas UML
+- Gestion de bases de datos relacionales y NoSQL
+- Integracion de APIs RESTful
+
+**Actualmente:**
+- 💼 Trabajando en proyectos full stack con React y .NET
+- 📚 Aprendiendo Inteligencia Artificial y Machine Learning
+- 🚀 Construyendo plataformas escalables y experiencias unicas
+
+**Pasiones:** 🎸 Musica | 🎮 Gaming | 📚 Aprendizaje constante
 
 > **"Creo que una web debe ser tan rapida como estetica. Mi enfoque se basa en unir el rendimiento tecnico con una UX pixel-perfect para que el usuario sea siempre lo primero."**
 
