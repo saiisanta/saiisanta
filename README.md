@@ -15,7 +15,7 @@
 ---
 
 ## 💫 Sobre Mí
-```javascript
+````javascript
 const simon = {
   ubicación: "Firmat, Santa Fe, Argentina 🇦🇷",
   rol: "Full Stack Developer",
@@ -49,7 +49,7 @@ const simon = {
     freelance: "E-commerce backends con Node.js"
   }
 };
-```
+````
 
 > **"Creo que una web debe ser tan rápida como estética. Mi enfoque se basa en unir el rendimiento técnico con una UX pixel-perfect para que el usuario sea siempre lo primero."**
 
@@ -205,11 +205,11 @@ Desarrollo de componentes reutilizables para plataforma web
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiisanta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=saiisanta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiisanta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=saiisanta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saiisanta&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=saiisanta&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF)
 
 </div>
 
