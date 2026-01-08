@@ -4,10 +4,9 @@
 
 ### 💻 Full Stack Developer | React Specialist | .NET Backend Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/simon-santarelli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-santarelli-6a5994399/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saiisanta)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simonsantarelli@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simisantarelli@gmail.com)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+.NET+%7C+Node.js;Construyendo+experiencias+digitales;Código+limpio%2C+diseño+impecable" alt="Typing SVG" />
 
@@ -16,7 +15,6 @@
 ---
 
 ## 💫 Sobre Mí
-
 ```javascript
 const simon = {
   ubicación: "Firmat, Santa Fe, Argentina 🇦🇷",
@@ -24,32 +22,32 @@ const simon = {
   educación: [
     "🎓 Tecnicatura Universitaria en Programación - UTN (Graduado)",
     "🤖 Tecnicatura en Inteligencia Artificial - UNR (2026)",
-    "💻 Técnico en Informática - EETP N° 281 (2023)",
+    "💻 Técnico en Informática - EETP N° 281 (2023)"
   ],
-
+  
   especialidades: [
     "Desarrollo Frontend con React y diseño pixel-perfect",
     "Backend escalable con .NET Core y Node.js",
     "Arquitectura de software y diagramas UML",
     "Gestión de bases de datos relacionales y NoSQL",
-    "Integración de APIs RESTful",
+    "Integración de APIs RESTful"
   ],
-
+  
   filosofía: "Una web debe ser tan rápida como estética",
-
+  
   actualmente: {
     trabajando: "Proyectos full stack con React y .NET",
     aprendiendo: "Inteligencia Artificial y Machine Learning",
-    construyendo: "Plataformas escalables y experiencias únicas",
+    construyendo: "Plataformas escalables y experiencias únicas"
   },
-
+  
   pasiones: ["🎸 Música", "🎮 Gaming", "📚 Aprendizaje constante"],
-
+  
   experiencia: {
     colaborador: "Frontend en Brokian.com (Bootstrap)",
     pasantía: "Edición audiovisual en TDC",
-    freelance: "E-commerce backends con Node.js",
-  },
+    freelance: "E-commerce backends con Node.js"
+  }
 };
 ```
 
@@ -60,7 +58,6 @@ const simon = {
 ## 🛠️ Stack Tecnológico
 
 ### **Frontend** (90% React)
-
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -70,35 +67,30 @@ const simon = {
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### **Backend** (75% .NET | 70% Node.js)
-
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### **Bases de Datos**
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
 ### **Lenguajes & Data Science**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 
 ### **Tools & DevOps**
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ### **Arquitectura & Diseño**
-
 ![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=uml&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -111,12 +103,11 @@ const simon = {
 
 ### 🏋️ [Highfit - Gym Management Platform](https://github.com/saiisanta/gym-management-front)
 
-**Stack Completo:** React + Vite | .NET Core | SQL Server | UML
+**Stack Completo:** React + Vite | .NET Core | SQL Server | UML  
 
 **Plataforma integral profesional para gestión de cadenas de gimnasios**
 
 🎯 **Características Principales:**
-
 - ✅ Sistema de gestión de múltiples sucursales
 - ✅ Administración de salas, clases y asignación de profesores
 - ✅ Módulo de membresías automatizado
@@ -128,22 +119,20 @@ const simon = {
 **Mi Rol:** Líder de Desarrollo Full Stack  
 ✨ Diseñé la arquitectura completa desde documentación técnica hasta diagramas UML  
 ✨ Desarrollé CRUD avanzado para gestión integral de gimnasios  
-✨ Implementé flujo profesional desde registro hasta historial de usuario
+✨ Implementé flujo profesional desde registro hasta historial de usuario  
 
 [![Frontend Repo](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github)](https://github.com/saiisanta/gym-management-front)
 [![Backend Repo](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github)](https://github.com/saiisanta/gym-management-backend)
-[![Ver Demo](https://img.shields.io/badge/Ver_Demo-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 
 ---
 
 ### 🛒 [RIFLI - E-Commerce Platform](https://github.com/saiisanta/RIFLI-FRONT)
 
-**Stack Moderno:** React + Vite | Node.js + Express | MongoDB | Cookie Auth
+**Stack Moderno:** React + Vite | Node.js + Express | MongoDB | Cookie Auth  
 
 **Plataforma completa de e-commerce con sistema de presupuestos profesionales**
 
 🎯 **Características Principales:**
-
 - ✅ Autenticación segura con cookies HttpOnly
 - ✅ Catálogo de productos con filtros avanzados
 - ✅ Carrito de compras y sistema de órdenes
@@ -156,11 +145,10 @@ const simon = {
 ✨ Arquitectura feature-based con separación de concerns  
 ✨ Services layer, custom hooks y Context API  
 ✨ Cookie authentication con refresh token automático  
-✨ UI/UX moderna con animaciones suaves
+✨ UI/UX moderna con animaciones suaves  
 
 [![Frontend Repo](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github)](https://github.com/saiisanta/RIFLI-FRONT)
 [![Backend Repo](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github)](https://github.com/saiisanta/RIFLI-BACK)
-[![Ver Demo](https://img.shields.io/badge/Ver_Demo-00D9FF?style=for-the-badge&logo=vercel)](#)
 
 ---
 
@@ -179,7 +167,6 @@ Desarrollo de componentes reutilizables para plataforma web
 ## 💼 Experiencia Profesional
 
 ### 🏢 Desarrollador Full Stack | Highfit (Proyecto Final UTN)
-
 **Mar. 2025 - Dic. 2025**
 
 - 🚀 Lideré el desarrollo integral de plataforma de gestión para cadenas de gimnasios
@@ -190,7 +177,6 @@ Desarrollo de componentes reutilizables para plataforma web
 - 📊 Garanticé flujo profesional desde registro hasta generación de historial
 
 ### 💻 Freelance Developer | E-Commerce Projects
-
 **Ene. 2022 - Presente**
 
 - 🛒 Desarrollo de backends escalables para plataformas e-commerce
@@ -200,7 +186,6 @@ Desarrollo de componentes reutilizables para plataforma web
 - 🔐 Sistemas de autenticación seguros con JWT y cookies
 
 ### 🎨 Colaborador Frontend | Brokian.com
-
 **Colaboración**
 
 - ⚛️ Desarrollo de componentes reutilizables con React
@@ -208,7 +193,6 @@ Desarrollo de componentes reutilizables para plataforma web
 - 🔄 Trabajo en equipo con metodologías ágiles
 
 ### 📹 Pasante Técnico | TDC
-
 **Pasantía**
 
 - 🎥 Edición audiovisual profesional
@@ -234,15 +218,12 @@ Desarrollo de componentes reutilizables para plataforma web
 ## 🎓 Educación
 
 ### 🎓 Tecnicatura Universitaria en Programación
-
 **Universidad Tecnológica Nacional (UTN)** | Graduado
 
 ### 🤖 Tecnicatura en Inteligencia Artificial
-
 **Universidad Nacional de Rosario (UNR)** | En curso - 2026
 
 ### 💻 Técnico en Informática
-
 **EETP N° 281 "Gral. Manuel Savio"** | 2023
 
 ---
@@ -252,7 +233,6 @@ Desarrollo de componentes reutilizables para plataforma web
 <div align="center">
 
 ### 💻 **Desarrollo**
-
 ```
 Frontend Development    ████████████████████ 90%
 Backend Architecture    ███████████████░░░░░ 75%
@@ -261,7 +241,6 @@ UI/UX Design           ███████████████████
 ```
 
 ### 🎯 **Soft Skills**
-
 ```
 Problem Solving        ████████████████████ 100%
 Team Collaboration     ████████████████░░░░ 80%
@@ -284,9 +263,9 @@ Technical Writing      ████████████████░░░
 
 <div align="center">
 
-> _"Creo que una web debe ser tan rápida como estética._  
-> _Mi enfoque se basa en unir el rendimiento técnico con una UX pixel-perfect_  
-> _para que el usuario sea siempre lo primero."_
+> *"Creo que una web debe ser tan rápida como estética.*  
+> *Mi enfoque se basa en unir el rendimiento técnico con una UX pixel-perfect*  
+> *para que el usuario sea siempre lo primero."*
 
 ### 🎯 Principios que sigo:
 
@@ -306,7 +285,6 @@ Technical Writing      ████████████████░░░
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-santarelli-6a5994399/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saiisanta)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simisantarelli@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
 
 </div>
 
