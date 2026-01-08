@@ -15,7 +15,7 @@
 ---
 
 ## 💫 Sobre Mí
-````javascript
+```javascript
 const simon = {
   ubicación: "Firmat, Santa Fe, Argentina 🇦🇷",
   rol: "Full Stack Developer",
@@ -49,7 +49,7 @@ const simon = {
     freelance: "E-commerce backends con Node.js"
   }
 };
-````
+```
 
 > **"Creo que una web debe ser tan rápida como estética. Mi enfoque se basa en unir el rendimiento técnico con una UX pixel-perfect para que el usuario sea siempre lo primero."**
 
