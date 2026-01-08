@@ -27,7 +27,7 @@
 ### Perfil
 
 **Ubicación**  
-Firmat, Santa Fe, Argentina 🇦🇷
+Firmat, Santa Fe, Argentina
 
 **Rol**  
 Full Stack Developer
