@@ -20,36 +20,36 @@
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-<h3>👨‍💻 Perfil</h3>
+<h3>Perfil</h3>
 
-**📍 Ubicación**  
-Firmat, Santa Fe  
-Argentina 🇦🇷
+<p><strong>Ubicación</strong><br/>
+Firmat, Santa Fe<br/>
+Argentina</p>
 
-**💼 Rol**  
-Full Stack Developer
+<p><strong>Rol</strong><br/>
+Full Stack Developer</p>
 
-**🎯 Filosofía**  
-*"Rápido y estético"*
+<p><strong>Filosofía</strong><br/>
+<em>"Rápido y estético"</em></p>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-<h3>🎓 Formación</h3>
+<h3>Formación</h3>
 
-**🎓 UTN**  
-Programación  
-_(Graduado)_
+<p><strong>UTN</strong><br/>
+Programación<br/>
+<em>(Graduado)</em></p>
 
-**🤖 UNR**  
-Inteligencia Artificial  
-_(2026)_
+<p><strong>UNR</strong><br/>
+Inteligencia Artificial<br/>
+<em>(2026)</em></p>
 
-**💻 EETP 281**  
-Informática  
-_(2023)_
+<p><strong>EETP 281</strong><br/>
+Informática<br/>
+<em>(2023)</em></p>
 
 </td>
 </tr>
