@@ -44,10 +44,10 @@ Full Stack
 Programación
 
 **UNR**  
-IA (2026)
+IA
 
 **EETP 281**  
-Informática (2023)
+Informática
 
 </td>
 </tr>
