@@ -17,41 +17,41 @@
 ## 💫 Sobre Mí
 ```javascript
 const simon = {
-  ubicación: "Firmat, Santa Fe, Argentina 🇦🇷",
+  ubicacion: "Firmat, Santa Fe, Argentina 🇦🇷",
   rol: "Full Stack Developer",
-  educación: [
-    "🎓 Tecnicatura Universitaria en Programación - UTN (Graduado)",
+  educacion: [
+    "🎓 Tecnicatura Universitaria en Programacion - UTN (Graduado)",
     "🤖 Tecnicatura en Inteligencia Artificial - UNR (2026)",
-    "💻 Técnico en Informática - EETP N° 281 (2023)"
+    "💻 Tecnico en Informatica - EETP N 281 (2023)"
   ],
   
   especialidades: [
-    "Desarrollo Frontend con React y diseño pixel-perfect",
+    "Desarrollo Frontend con React y diseno pixel-perfect",
     "Backend escalable con .NET Core y Node.js",
     "Arquitectura de software y diagramas UML",
-    "Gestión de bases de datos relacionales y NoSQL",
-    "Integración de APIs RESTful"
+    "Gestion de bases de datos relacionales y NoSQL",
+    "Integracion de APIs RESTful"
   ],
   
-  filosofía: "Una web debe ser tan rápida como estética",
+  filosofia: "Una web debe ser tan rapida como estetica",
   
   actualmente: {
     trabajando: "Proyectos full stack con React y .NET",
     aprendiendo: "Inteligencia Artificial y Machine Learning",
-    construyendo: "Plataformas escalables y experiencias únicas"
+    construyendo: "Plataformas escalables y experiencias unicas"
   },
   
-  pasiones: ["🎸 Música", "🎮 Gaming", "📚 Aprendizaje constante"],
+  pasiones: ["🎸 Musica", "🎮 Gaming", "📚 Aprendizaje constante"],
   
   experiencia: {
     colaborador: "Frontend en Brokian.com (Bootstrap)",
-    pasantía: "Edición audiovisual en TDC",
+    pasantia: "Edicion audiovisual en TDC",
     freelance: "E-commerce backends con Node.js"
   }
 };
 ```
 
-> **"Creo que una web debe ser tan rápida como estética. Mi enfoque se basa en unir el rendimiento técnico con una UX pixel-perfect para que el usuario sea siempre lo primero."**
+> **"Creo que una web debe ser tan rapida como estetica. Mi enfoque se basa en unir el rendimiento tecnico con una UX pixel-perfect para que el usuario sea siempre lo primero."**
 
 ---
 
