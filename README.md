@@ -16,29 +16,91 @@
 
 ## 💫 Sobre Mí
 
-**Ubicacion:** Firmat, Santa Fe, Argentina 🇦🇷  
-**Rol:** Full Stack Developer  
+<div align="center">
 
-**Educacion:**
-- 🎓 Tecnicatura Universitaria en Programacion - UTN (Graduado)
-- 🤖 Tecnicatura en Inteligencia Artificial - UNR (2026)
-- 💻 Tecnico en Informatica - EETP N 281 (2023)
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**Especialidades:**
-- Desarrollo Frontend con React y diseno pixel-perfect
-- Backend escalable con .NET Core y Node.js
-- Arquitectura de software y diagramas UML
-- Gestion de bases de datos relacionales y NoSQL
-- Integracion de APIs RESTful
+<table>
+<tr>
+<td align="center" width="50%">
 
-**Actualmente:**
-- 💼 Trabajando en proyectos full stack con React y .NET
-- 📚 Aprendiendo Inteligencia Artificial y Machine Learning
-- 🚀 Construyendo plataformas escalables y experiencias unicas
+### 👤 Perfil
 
-**Pasiones:** 🎸 Musica | 🎮 Gaming | 📚 Aprendizaje constante
+📍 **Ubicación**  
+Firmat, Santa Fe, Argentina 🇦🇷
 
-> **"Creo que una web debe ser tan rapida como estetica. Mi enfoque se basa en unir el rendimiento tecnico con una UX pixel-perfect para que el usuario sea siempre lo primero."**
+💼 **Rol**  
+Full Stack Developer
+
+🎯 **Filosofía**  
+*"Rápido y estético"*
+
+</td>
+<td align="center" width="50%">
+
+### 🎓 Formación
+
+🎓 **UTN**  
+Programación (Graduado)
+
+🤖 **UNR**  
+IA (2026)
+
+💻 **EETP 281**  
+Informática (2023)
+
+</td>
+</tr>
+</table>
+
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+### 🚀 Stack Principal
+
+<div align="center">
+
+| Frontend | Backend | Arquitectura |
+|:--------:|:-------:|:------------:|
+| ⚛️ React + Vite | 🔷 .NET Core | 📐 UML |
+| 🎨 Pixel-Perfect UI | 🟢 Node.js | 🔌 REST APIs |
+| 💅 SCSS/Bootstrap | 🗄️ SQL + NoSQL | 🏗️ Microservicios |
+
+</div>
+
+---
+
+### 🔥 En Este Momento
+
+<div align="center">
+
+| 💼 | 📚 | 🚀 |
+|:---|:---|:---|
+| **Trabajando:** Proyectos full stack React + .NET | **Aprendiendo:** Inteligencia Artificial & ML | **Construyendo:** Experiencias únicas |
+
+</div>
+
+---
+
+### 🎯 Más Allá del Código
+
+<div align="center">
+
+🎸 **Música** | 🎮 **Gaming** | 📚 **Aprendizaje Constante** | ☕ **Café Infinito**
+
+</div>
+
+---
+
+<div align="center">
+
+> ### 💡 *"Una web debe ser tan rápida como estética"*
+>
+> *Mi enfoque une el rendimiento técnico con una UX pixel-perfect*  
+> *para que el usuario sea siempre lo primero.*
+
+</div>
 
 ---
 
