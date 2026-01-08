@@ -18,42 +18,42 @@
 
 <div align="center">
 
-### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 <table>
 <tr>
 <td align="center" width="50%">
 
-### Perfil
+<h3>👨‍💻 Perfil</h3>
 
-**Ubicación**  
-Argentina
+**📍 Ubicación**  
+Firmat, Santa Fe  
+Argentina 🇦🇷
 
-**Rol**  
-Full Stack
+**💼 Rol**  
+Full Stack Developer
 
-**Filosofía**  
+**🎯 Filosofía**  
 *"Rápido y estético"*
 
 </td>
 <td align="center" width="50%">
 
-### Formación
+<h3>🎓 Formación</h3>
 
-**UTN**  
-Programación
+**🎓 UTN**  
+Programación  
+_(Graduado)_
 
-**UNR**  
-IA
+**🤖 UNR**  
+Inteligencia Artificial  
+_(2026)_
 
-**EETP 281**  
-Informática
+**💻 EETP 281**  
+Informática  
+_(2023)_
 
 </td>
 </tr>
 </table>
-
-### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
