@@ -24,29 +24,29 @@
 <tr>
 <td align="center" width="50%">
 
-### 👤 Perfil
+### Perfil
 
-📍 **Ubicación**  
+**Ubicación**  
 Firmat, Santa Fe, Argentina 🇦🇷
 
-💼 **Rol**  
+**Rol**  
 Full Stack Developer
 
-🎯 **Filosofía**  
+**Filosofía**  
 *"Rápido y estético"*
 
 </td>
 <td align="center" width="50%">
 
-### 🎓 Formación
+### Formación
 
-🎓 **UTN**  
+**UTN**  
 Programación (Graduado)
 
-🤖 **UNR**  
+**UNR**  
 IA (2026)
 
-💻 **EETP 281**  
+**EETP 281**  
 Informática (2023)
 
 </td>
@@ -63,9 +63,9 @@ Informática (2023)
 
 | Frontend | Backend | Arquitectura |
 |:--------:|:-------:|:------------:|
-| ⚛️ React + Vite | 🔷 .NET Core | 📐 UML |
-| 🎨 Pixel-Perfect UI | 🟢 Node.js | 🔌 REST APIs |
-| 💅 SCSS/Bootstrap | 🗄️ SQL + NoSQL | 🏗️ Microservicios |
+| React + Vite | .NET Core | UML |
+| Pixel-Perfect UI | Node.js | REST APIs |
+| SCSS/Bootstrap | SQL + NoSQL | Microservicios |
 
 </div>
 
@@ -87,7 +87,7 @@ Informática (2023)
 
 <div align="center">
 
-🎸 **Música** | 🎮 **Gaming** | 📚 **Aprendizaje Constante** | ☕ **Café Infinito**
+**Música** | **Gaming** | **Aprendizaje Constante**
 
 </div>
 
