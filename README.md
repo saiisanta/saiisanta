@@ -30,7 +30,7 @@
 Argentina
 
 **Rol**  
-Full Stack Developer
+Full Stack
 
 **Filosofía**  
 *"Rápido y estético"*
