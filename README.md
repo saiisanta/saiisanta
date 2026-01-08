@@ -87,7 +87,7 @@ Informática (2023)
 
 <div align="center">
 
-**Música** | **Gaming** | **Aprendizaje Constante**
+**Música** | **Gaming** | **Aprendizaje**
 
 </div>
 
@@ -157,18 +157,18 @@ Informática (2023)
 **Plataforma integral profesional para gestión de cadenas de gimnasios**
 
 🎯 **Características Principales:**
-- ✅ Sistema de gestión de múltiples sucursales
-- ✅ Administración de salas, clases y asignación de profesores
-- ✅ Módulo de membresías automatizado
-- ✅ Sistema de reservas en tiempo real
-- ✅ Panel administrativo robusto
-- ✅ Historial completo de clases y asistencias
-- ✅ Arquitectura escalable y modular
+- Sistema de gestión de múltiples sucursales
+- Administración de salas, clases y asignación de profesores
+- Módulo de membresías automatizado
+- Sistema de reservas en tiempo real
+- Panel administrativo robusto
+- Historial completo de clases y asistencias
+- Arquitectura escalable y modular
 
 **Mi Rol:** Líder de Desarrollo Full Stack  
-✨ Diseñé la arquitectura completa desde documentación técnica hasta diagramas UML  
-✨ Desarrollé CRUD avanzado para gestión integral de gimnasios  
-✨ Implementé flujo profesional desde registro hasta historial de usuario  
+Diseñé la arquitectura completa desde documentación técnica hasta diagramas UML  
+Desarrollé CRUD avanzado para gestión integral de gimnasios  
+Implementé flujo profesional desde registro hasta historial de usuario  
 
 [![Frontend Repo](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github)](https://github.com/saiisanta/gym-management-front)
 [![Backend Repo](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github)](https://github.com/saiisanta/gym-management-backend)
@@ -182,19 +182,19 @@ Informática (2023)
 **Plataforma completa de e-commerce con sistema de presupuestos profesionales**
 
 🎯 **Características Principales:**
-- ✅ Autenticación segura con cookies HttpOnly
-- ✅ Catálogo de productos con filtros avanzados
-- ✅ Carrito de compras y sistema de órdenes
-- ✅ Sistema de presupuestos para servicios
-- ✅ Panel de usuario y administración
-- ✅ Integración con pasarelas de pago
-- ✅ Diseño moderno con glassmorphism
+- Autenticación segura con cookies HttpOnly
+- Catálogo de productos con filtros avanzados
+- Carrito de compras y sistema de órdenes
+- Sistema de presupuestos para servicios
+- Panel de usuario y administración
+- Integración con pasarelas de pago
+- Diseño moderno con glassmorphism
 
 **Mi Rol:** Desarrollador Full Stack  
-✨ Arquitectura feature-based con separación de concerns  
-✨ Services layer, custom hooks y Context API  
-✨ Cookie authentication con refresh token automático  
-✨ UI/UX moderna con animaciones suaves  
+Arquitectura feature-based con separación de concerns  
+Services layer, custom hooks y Context API  
+Cookie authentication con refresh token automático  
+UI/UX moderna con animaciones suaves  
 
 [![Frontend Repo](https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github)](https://github.com/saiisanta/RIFLI-FRONT)
 [![Backend Repo](https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github)](https://github.com/saiisanta/RIFLI-BACK)
@@ -218,35 +218,35 @@ Desarrollo de componentes reutilizables para plataforma web
 ### 🏢 Desarrollador Full Stack | Highfit (Proyecto Final UTN)
 **Mar. 2025 - Dic. 2025**
 
-- 🚀 Lideré el desarrollo integral de plataforma de gestión para cadenas de gimnasios
-- 📐 Diseñé arquitectura completa: documentación técnica, diagramas UML, análisis de viabilidad
-- 💻 Integré frontend ágil (React) con backend robusto (.NET Core)
-- ✨ Implementé sistema CRUD avanzado para gestión de sucursales, salas y profesores
-- 🎯 Desarrollé módulo de membresías automatizado con gestión de planes y reservas
-- 📊 Garanticé flujo profesional desde registro hasta generación de historial
+- Lideré el desarrollo integral de plataforma de gestión para cadenas de gimnasios
+- Diseñé arquitectura completa: documentación técnica, diagramas UML, análisis de viabilidad
+- Integré frontend ágil (React) con backend robusto (.NET Core)
+- Implementé sistema CRUD avanzado para gestión de sucursales, salas y profesores
+- Desarrollé módulo de membresías automatizado con gestión de planes y reservas
+- Garanticé flujo profesional desde registro hasta generación de historial
 
 ### 💻 Freelance Developer | E-Commerce Projects
 **Ene. 2022 - Presente**
 
-- 🛒 Desarrollo de backends escalables para plataformas e-commerce
-- 💳 Integración de pasarelas de pago (Stripe, MercadoPago)
-- 🔧 Implementación de microservicios y APIs RESTful
-- 📦 Gestión de inventario, órdenes y usuarios
-- 🔐 Sistemas de autenticación seguros con JWT y cookies
+- Desarrollo de backends escalables para plataformas e-commerce
+- Integración de pasarelas de pago (Stripe, MercadoPago)
+- Implementación de microservicios y APIs RESTful
+- Gestión de inventario, órdenes y usuarios
+- Sistemas de autenticación seguros con JWT y cookies
 
 ### 🎨 Colaborador Frontend | Brokian.com
 **Colaboración**
 
-- ⚛️ Desarrollo de componentes reutilizables con React
-- 🎨 Maquetación responsive con Bootstrap
-- 🔄 Trabajo en equipo con metodologías ágiles
+- Desarrollo de componentes reutilizables con React
+- Maquetación responsive con Bootstrap
+- Trabajo en equipo con metodologías ágiles
 
 ### 📹 Pasante Técnico | TDC
 **Pasantía**
 
-- 🎥 Edición audiovisual profesional
-- 📡 Gestión de contenido en vivo
-- ⚡ Trabajo bajo alta presión
+- Edición audiovisual profesional
+- Gestión de contenido en vivo
+- Trabajo bajo alta presión
 
 ---
 
