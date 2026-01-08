@@ -41,7 +41,7 @@ Full Stack Developer
 ### Formación
 
 **UTN**  
-Programación (Graduado)
+Programación
 
 **UNR**  
 IA (2026)
