@@ -18,18 +18,24 @@
 
 <div align="center">
 
-> ### <span style="color: #E4572E;">*"</span>Una web debe ser tan rápida como estética<span style="color: #E4572E;" >"*</span>
->
-> *Mi enfoque une el rendimiento técnico con una UX pixel-perfect*  
-> *para que el usuario sea siempre lo primero.*
+<h3 style="color: #E4572E; font-style: italic;">
+"Una web debe ser tan rápida como estética"
+</h3>
+
+<p style="font-style: italic; color: #6c757d;">
+Mi enfoque une el rendimiento técnico con una UX pixel-perfect<br>
+para que el usuario sea siempre lo primero.
+</p>
 
 </div>
 
-
+<div align="center">
 <h2 style="display: inline-flex; align-items: center; gap: 0.5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" />
-  Sobre Mí
+Sobre Mí
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" style="transform: scaleX(-1);" />
 </h2>
+</div>
 
 <p align="center">
 <b>¡Hola! Soy un apasionado del desarrollo y la tecnología viviendo en Firmat, Santa Fe 🇦🇷.</b><br>
@@ -38,11 +44,13 @@ Mi camino en este mundo empezó como Técnico en Informática y hoy me encuentro
 Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b> en la UNR, buscando siempre ese "plus" inteligente para mis proyectos. Soy de los que creen en el aprendizaje constante y en el valor de los detalles que hacen que un producto pase de ser funcional a ser único.
 </p>
 
-
+<div align="center">
 <h2 style="display: inline-flex; align-items: center; gap: 0.5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" />
   <span>Stack Tecnológico</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" style="transform: scaleX(-1);" />
 </h2>
+</div>
 
 ### **Frontend** (90% React)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -82,11 +90,13 @@ Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b>
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-
+<div align="center">
 <h2 style="display: inline-flex; align-items: center; gap: 0.5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" />
   <span>Estadísticas de GitHub</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" style="transform: scaleX(-1);" />
 </h2>
+</div>
 
 <div align="center">
 <table border="0">
@@ -107,11 +117,13 @@ Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b>
 </div>
 
 
-
+<div align="center">
 <h2 style="display: inline-flex; align-items: center; gap: 0.5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" />
   <span>Educación</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" style="transform: scaleX(-1);" />
 </h2>
+</div>
 
 ### Tecnicatura Universitaria en Programación
 **Universidad Tecnológica Nacional (UTN)** | Graduado
@@ -124,21 +136,25 @@ Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b>
 
 
 
-
+<div align="center">
 <h2 style="display: inline-flex; align-items: center; gap: 0.5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" />
   <span>Actividad</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" style="transform: scaleX(-1);" />
 </h2>
+</div>
+
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-
+<div align="center">
 <h2 style="display: inline-flex; align-items: center; gap: 0.5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" />
   <span>Filosofía</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" style="transform: scaleX(-1);" />
 </h2>
-
+</div>
 <div align="center">
 
 **Clean Code** | **Pixel-Perfect Design** | **Performance First**  
@@ -146,11 +162,13 @@ Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b>
 
 </div>
 
-
+<div align="center">
 <h2 style="display: inline-flex; align-items: center; gap: 0.5rem;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" />
   <span>Conectemos</span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" style="transform: scaleX(-1);" />
 </h2>
+</div>
 
 <div align="center">
 
