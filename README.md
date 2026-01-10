@@ -14,29 +14,22 @@
 
 </div>
 
-
 <div align="center">
 
-<h3 style="color: #E4572E; font-style: italic;">
-"Una web debe ser tan rápida como estética"
-</h3>
+### *"Una web debe ser tan rápida como estética"*
 
-<p style="font-style: italic; color: #6c757d;">
-Mi enfoque une el rendimiento técnico con una UX pixel-perfect<br>
-para que el usuario sea siempre lo primero.
-</p>
+*Mi enfoque une el rendimiento técnico con una UX pixel-perfect*  
+*para que el usuario sea siempre lo primero.*
 
 </div>
 
-<div align="center" style="font-size: 1.5rem; font-weight: bold; margin: 2rem 0;">
+<br>
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 
-<br>
-
-**Sobre Mí**
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=80&text=Sobre%20Mí&fontSize=35&fontColor=E4572E" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 
@@ -49,17 +42,13 @@ Mi camino en este mundo empezó como Técnico en Informática y hoy me encuentro
 Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b> en la UNR, buscando siempre ese "plus" inteligente para mis proyectos. Soy de los que creen en el aprendizaje constante y en el valor de los detalles que hacen que un producto pase de ser funcional a ser único.
 </p>
 
+<br>
 
-<div align="center" style="font-size: 1.5rem; font-weight: bold; margin: 2rem 0;">
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 
-
-<br>
-
-**Stack Tecnológico**
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=80&text=Stack%20Tecnológico&fontSize=35&fontColor=E4572E" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 
@@ -107,15 +96,13 @@ Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b>
 
 </div>
 
-<div align="center" style="font-size: 1.5rem; font-weight: bold; margin: 2rem 0;">
+<br>
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 
-<br>
-
-**Estadísticas de GitHub**
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=80&text=Estadísticas%20de%20GitHub&fontSize=35&fontColor=E4572E" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 
@@ -139,15 +126,13 @@ Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b>
 </table>
 </div>
 
-<div align="center" style="font-size: 1.5rem; font-weight: bold; margin: 2rem 0;">
+<br>
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 
-<br>
-
-**Educación**
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=80&text=Educación&fontSize=35&fontColor=E4572E" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 
@@ -166,33 +151,28 @@ Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b>
 
 </div>
 
-<div align="center" style="font-size: 1.5rem; font-weight: bold; margin: 2rem 0;">
+<br>
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 
-<br>
-
-**Actividad**
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=80&text=Actividad&fontSize=35&fontColor=E4572E" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 
 </div>
 
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<div align="center" style="font-size: 1.5rem; font-weight: bold; margin: 2rem 0;">
+<br>
+
+<div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 
-<br>
-
-**Filosofía**
-
-<br>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&customColorList=14&height=80&text=Filosofía&fontSize=35&fontColor=E4572E" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
 
@@ -205,21 +185,7 @@ Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b>
 
 </div>
 
-</div>
-
-<div align="center" style="font-size: 1.5rem; font-weight: bold; margin: 2rem 0;">
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
-
 <br>
-
-**Conectemos**
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
-
-</div>
 
 <div align="center">
 
@@ -231,13 +197,13 @@ Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b>
 
 </div>
 
+<br>
 
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=saiisanta&color=00D9FF&style=for-the-badge)
 
 ⭐ **Si te gustan mis proyectos, no olvides darles una estrella** ⭐
-
 
 **Hecho por Simón Santarelli**
 
