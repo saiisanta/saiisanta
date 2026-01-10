@@ -4,7 +4,6 @@
 
 ### ¡Hola! Soy Simón Santarelli
 
-
 ### Full Stack Developer | React Specialist | .NET Backend Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-santarelli-6a5994399/)
@@ -29,12 +28,14 @@ para que el usuario sea siempre lo primero.
 
 </div>
 
-<div align="center">
-<h2 style="display: inline-flex; align-items: center; gap: 0.5rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" />
+<div align="center" style="font-size: 1.5rem; font-weight: bold; margin: 2rem 0;">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
 Sobre Mí
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" style="transform: scaleX(-1);" />
-</h2>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
 </div>
 
 <p align="center">
@@ -44,12 +45,15 @@ Mi camino en este mundo empezó como Técnico en Informática y hoy me encuentro
 Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b> en la UNR, buscando siempre ese "plus" inteligente para mis proyectos. Soy de los que creen en el aprendizaje constante y en el valor de los detalles que hacen que un producto pase de ser funcional a ser único.
 </p>
 
-<div align="center">
-<h2 style="display: inline-flex; align-items: center; gap: 0.5rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" />
-  <span>Stack Tecnológico</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" style="transform: scaleX(-1);" />
-</h2>
+
+<div align="center" style="font-size: 1.5rem; font-weight: bold; margin: 2rem 0;">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
+Stack Tecnológico
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
 </div>
 
 ### **Frontend** (90% React)
@@ -90,12 +94,14 @@ Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b>
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<div align="center">
-<h2 style="display: inline-flex; align-items: center; gap: 0.5rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" />
-  <span>Estadísticas de GitHub</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" style="transform: scaleX(-1);" />
-</h2>
+<div align="center" style="font-size: 1.5rem; font-weight: bold; margin: 2rem 0;">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
+Estadísticas de GitHub
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
 </div>
 
 <div align="center">
@@ -116,13 +122,14 @@ Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b>
 </table>
 </div>
 
+<div align="center" style="font-size: 1.5rem; font-weight: bold; margin: 2rem 0;">
 
-<div align="center">
-<h2 style="display: inline-flex; align-items: center; gap: 0.5rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" />
-  <span>Educación</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" style="transform: scaleX(-1);" />
-</h2>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
+Educación
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
 </div>
 
 ### Tecnicatura Universitaria en Programación
@@ -136,38 +143,43 @@ Actualmente, mi curiosidad me lleva a explorar la <b>Inteligencia Artificial</b>
 
 
 
-<div align="center">
-<h2 style="display: inline-flex; align-items: center; gap: 0.5rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" />
-  <span>Actividad</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" style="transform: scaleX(-1);" />
-</h2>
+<div align="center" style="font-size: 1.5rem; font-weight: bold; margin: 2rem 0;">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
+Actividad
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
 </div>
 
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-<div align="center">
-<h2 style="display: inline-flex; align-items: center; gap: 0.5rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" />
-  <span>Filosofía</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" style="transform: scaleX(-1);" />
-</h2>
+<div align="center" style="font-size: 1.5rem; font-weight: bold; margin: 2rem 0;">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
+Filosofía
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
 </div>
-<div align="center">
 
 **Clean Code** | **Pixel-Perfect Design** | **Performance First**  
 **Security by Design** | **Mobile First** | **Accessibility**
 
 </div>
 
-<div align="center">
-<h2 style="display: inline-flex; align-items: center; gap: 0.5rem;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" />
-  <span>Conectemos</span>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inertiajs/inertiajs-original.svg" width="30" style="transform: scaleX(-1);" />
-</h2>
+<div align="center" style="font-size: 1.5rem; font-weight: bold; margin: 2rem 0;">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
+Conectemos
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+
 </div>
 
 <div align="center">
