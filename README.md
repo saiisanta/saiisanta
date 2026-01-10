@@ -56,6 +56,8 @@ Stack Tecnológico
 
 </div>
 
+<div align="center">
+
 ### **Frontend** (90% React)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -93,6 +95,8 @@ Stack Tecnológico
 ![UML](https://img.shields.io/badge/UML-FABD14?style=for-the-badge&logo=uml&logoColor=black)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</div>
 
 <div align="center" style="font-size: 1.5rem; font-weight: bold; margin: 2rem 0;">
 
@@ -132,6 +136,8 @@ Educación
 
 </div>
 
+<div align="center">
+
 ### Tecnicatura Universitaria en Programación
 **Universidad Tecnológica Nacional (UTN)** | Graduado
 
@@ -141,7 +147,7 @@ Educación
 ### Técnico en Informática
 **EETP N° 281 "Gral. Manuel Savio"** | 2023
 
-
+</div>
 
 <div align="center" style="font-size: 1.5rem; font-weight: bold; margin: 2rem 0;">
 
@@ -167,8 +173,12 @@ Filosofía
 
 </div>
 
+<div align="center">
+
 **Clean Code** | **Pixel-Perfect Design** | **Performance First**  
 **Security by Design** | **Mobile First** | **Accessibility**
+
+</div>
 
 </div>
 
